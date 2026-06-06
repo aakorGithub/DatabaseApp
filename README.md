@@ -58,4 +58,4 @@ https://github.com/aakorGithub/GappDb-Google-Apps-Script-Software-Application/as
 
 
 # Link to Demo 
-https://script.google.com/macros/s/AKfycbzjO0Ev34wuRYxT9FSoA_AquKXub80wHLUWKj1te5A5B6pdQ5OdJ7ZfdX_JRVzdaBvQ/exec
+https://docs.google.com/spreadsheets/d/1Xu43iYvaCmSCzG2qXP0fLB14XAr71QT2VMIUQdgKWx8/edit?usp=sharing
