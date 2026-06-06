@@ -5,7 +5,7 @@ A full-stack, cloud-based data storage and retrieval web application designed fo
 This project demonstrates end-to-end software ownership—from initial requirements gathering and schema design to final deployment readiness for the Google Workspace Marketplace.
 
 ## Live Links & Media
-* **Backend Database Sheet:** [View Google Sheet Data Pipeline](https://docs.google.com/spreadsheets/d/1Xu43iYvaCmSCzG2qXP0fLB14XAr71QT2VMIUQdgKWx8/edit?usp=sharing)
+Please Message me to get Access to the Live Site
 * **Demo Video:** `ScreenRecording2024-07-03at2.24.52PM-ezgif.com-video-speed.mov`
 
 ---
