@@ -9,17 +9,6 @@ This project demonstrates end-to-end software ownership—from initial requireme
 * Please Shoot me an Email:
 * Email: anthonyakor@yahoo.com
 
-## Demo Video
-
-
-
-
-
-https://github.com/user-attachments/assets/5bca2aa2-3ea5-4d33-aee7-b179849ee001
-
-
-
-
 
 ## Key Features
 
@@ -62,23 +51,7 @@ As engineered in the architecture (detailed in Screenshot 2026-06-06 at 4.27.56 
 
 ---
 
-## Installation & Setup
+## Link
 
-Because this project utilizes spreadsheet engines and Google Apps Script, it can be deployed directly via the Google Cloud ecosystem.
-
-1. **Clone the Repository:**
-```bash
-   git clone [https://github.com/aakorGithub/DatabaseApp.git](https://github.com/aakorGithub/DatabaseApp.git)
-   cd DatabaseApp
-
-# Demo
-https://github.com/aakorGithub/GappDb-Google-Apps-Script-Software-Application/assets/115869746/96f8be96-a0f3-4102-8650-6da934fa0b5c
-
-
-
-
-
-
-
-# Link to Demo 
 https://docs.google.com/spreadsheets/d/1Xu43iYvaCmSCzG2qXP0fLB14XAr71QT2VMIUQdgKWx8/edit?usp=sharing
+
