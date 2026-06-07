@@ -1,6 +1,6 @@
 # Database System Application
 
-A full-stack, cloud-based data storage and retrieval web application designed for efficient data management and user-friendly interaction. This system bridges classic desktop spreadsheet power with modern web applications—utilizing an Excel spreadsheet as the core data pipeline and Google Sheets/Apps Script as the real-time cloud backend database, all powered by SQL-like querying for high-performance information retrieval.
+A full-stack, cloud-based data storage and retrieval web application designed for efficient data management and user-friendly interaction. This system bridges classic desktop spreadsheet power with modern web applications utilizing an Excel spreadsheet as the core data pipeline and Google Sheets/Apps Script as the real time cloud backend database, all powered by SQL-like querying for high-performance information retrieval.
 
 This project demonstrates end-to-end software ownership—from initial requirements gathering and schema design to final deployment readiness for the Google Workspace Marketplace.
 
