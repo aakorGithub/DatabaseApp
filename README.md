@@ -6,9 +6,10 @@ This project demonstrates end-to-end software ownership—from initial requireme
 
 ## Live Links & Media
 For Recruiters & Hiring Managers: Please Message me to get Access to the Live Site Demo
-* **Demo Video:** `ScreenRecording2024-07-03at2.24.52PM-ezgif.com-video-speed.mov`
+* **Demo Video:**
+  ## Demo Video
 
----
+<video src="PASTE_YOUR_GITHUB_ASSET_URL_HERE.mp4" width="100%" controls autocomplete muted></video>
 
 ## Key Features
 
