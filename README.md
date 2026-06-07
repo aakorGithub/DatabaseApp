@@ -4,21 +4,22 @@ A full-stack, cloud-based data storage and retrieval web application designed fo
 
 This project demonstrates end-to-end software ownership—from initial requirements gathering and schema design to final deployment readiness for the Google Workspace Marketplace.
 
-## Live Links & Media
-For Recruiters & Hiring Managers: Please Message me to get Access to the Live Site Demo
+## For Access to the Web App:
+
+* Please Shoot me an Email:
+* Email: anthonyakor@yahoo.com
 
 ## Demo Video
 
 
 
-https://github.com/user-attachments/assets/7e1e968f-a1bc-4db1-b7fb-66191384bafc
-
+Uploading Screen Recording 2026-06-06 at 7.01.02 PM (1).mp4…
 
 
 
 ## Key Features
 
-* **Excel & Spreadsheet Data Pipeline:** Leverages an Excel spreadsheet format as the foundational data layer, creating a seamless pipeline that imports, exports, and syncs data to a live web interface.
+ **Excel & Spreadsheet Data Pipeline:** Leverages an Excel spreadsheet format as the foundational data layer, creating a seamless pipeline that imports, exports, and syncs data to a live web interface.
 * **SQL Query Functionality:** Fetches, filters, and processes complex relational data using structured, SQL-like queries for fast and optimized information retrieval.
 * **Role-Based Access Control (RBAC):** Secures user data and application views based on user credentials mapped to backend authentication records.
 * **Google Calendar Integration:** Automates workflow actions by scheduling and managing calendar events directly from stored database entries.
