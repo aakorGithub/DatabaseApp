@@ -9,7 +9,9 @@ For Recruiters & Hiring Managers: Please Message me to get Access to the Live Si
 
 ## Demo Video
 
-<video src="PASTE_YOUR_GITHUB_ASSET_URL_HERE.mp4" width="100%" controls autocomplete muted></video>
+[ScreenRecording2026-06-06at4.59.44PM-ezgif.com-gif-maker.mov.zip](https://github.com/user-attachments/files/28674203/ScreenRecording2026-06-06at4.59.44PM-ezgif.com-gif-maker.mov.zip)
+
+
 
 ## Key Features
 
