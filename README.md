@@ -22,7 +22,7 @@ This project demonstrates end-to-end software ownership—from initial requireme
 
 ## Database Architecture & Modules
 
-As engineered in the architecture (detailed in Screenshot 2026-06-06 at 4.27.56 PM (2).jpg), the database pipeline is separated into modular, structured tables:
+The database pipeline is separated into modular, structured tables:
 
 * `Product` – Handles product names, descriptions, and verified image asset hosting URLs.
 * `Inventory` – Tracks core asset quantities and stock status across 10+ asset types.
