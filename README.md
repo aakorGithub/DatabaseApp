@@ -13,7 +13,11 @@ This project demonstrates end-to-end software ownership—from initial requireme
 
 
 
-Uploading Screen Recording 2026-06-06 at 7.01.02 PM (1).mp4…
+
+
+https://github.com/user-attachments/assets/5bca2aa2-3ea5-4d33-aee7-b179849ee001
+
+
 
 
 
