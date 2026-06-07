@@ -8,7 +8,8 @@ This project demonstrates end-to-end software ownership—from initial requireme
 For Recruiters & Hiring Managers: Please Message me to get Access to the Live Site Demo
 
 ## Demo Video
-<img width="800" height="435" alt="ScreenRecording2026-06-06at4 59 44PM-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/77ec8079-e4cb-4211-a9c4-7d0858f0aed2" />
+
+https://github.com/user-attachments/assets/df9ce4ea-cb9e-4a20-acb7-8fb40c0c87c6
 
 
 ## Key Features
