@@ -9,7 +9,7 @@ For Recruiters & Hiring Managers: Please Message me to get Access to the Live Si
 
 ## Demo Video
 
-![Application Walkthrough](PASTE_YOUR_GITHUB_ASSET_URL_HERE.gif)
+<video src="PASTE_YOUR_GITHUB_ASSET_URL_HERE.mp4" width="100%" controls autocomplete muted></video>
 
 ## Key Features
 
