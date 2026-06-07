@@ -53,5 +53,4 @@ As engineered in the architecture (detailed in Screenshot 2026-06-06 at 4.27.56 
 
 ## Link
 
-https://docs.google.com/spreadsheets/d/1Xu43iYvaCmSCzG2qXP0fLB14XAr71QT2VMIUQdgKWx8/edit?usp=sharing
-
+https://script.google.com/a/toromail.csudh.edu/macros/s/AKfycbzVgUQ-HinDZ1MaIL8fZzWg1zQIl3dPXPHvYHwtHD9U/dev
