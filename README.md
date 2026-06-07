@@ -9,7 +9,11 @@ For Recruiters & Hiring Managers: Please Message me to get Access to the Live Si
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/df9ce4ea-cb9e-4a20-acb7-8fb40c0c87c6
+
+
+https://github.com/user-attachments/assets/7e1e968f-a1bc-4db1-b7fb-66191384bafc
+
+
 
 
 ## Key Features
