@@ -6,10 +6,10 @@ This project demonstrates end-to-end software ownership—from initial requireme
 
 ## Live Links & Media
 For Recruiters & Hiring Managers: Please Message me to get Access to the Live Site Demo
-* **Demo Video:**
-  ## Demo Video
 
-<video src="PASTE_YOUR_GITHUB_ASSET_URL_HERE.mp4" width="100%" controls autocomplete muted></video>
+## Demo Video
+
+![Application Walkthrough](PASTE_YOUR_GITHUB_ASSET_URL_HERE.gif)
 
 ## Key Features
 
