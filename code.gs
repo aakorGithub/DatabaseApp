@@ -182,3 +182,121 @@ function getProduct(){
 
 function getInventory(){
   var app=SpreadsheetApp.getActiveSpreadsheet();
+  var spreadsheetName=app.getSheetByName("Inventory");
+  var lastRow=spreadsheetName.getLastRow();
+  var range=spreadsheetName.getRange(2,1, lastRow-1, 5);
+  var values=range.getValues();
+  Logger.log(values);
+  return values;
+
+
+}
+
+
+
+
+
+// using appendRow() to add data from a form
+
+function addRecord(uid, name, quantity, location, addDate){
+  var app=SpreadsheetApp.getActiveSpreadsheet();
+  var spreadsheetName=app.getSheetByName("Inventory");
+  var lastRow=spreadsheetName.getLastRow()+1;
+  var formatDate=`=TEXT(F${lastRow}, "mm/dd/yyyy") `;
+  spreadsheetName.appendRow([uid, name, quantity,location, formatDate, addDate]);
+}
+
+
+
+/////////////////// End Inventory
+
+///////////////////Profile
+
+function getProfileName(){
+  var app=SpreadsheetApp.getActiveSpreadsheet();
+  var spreadsheetName=app.getSheetByName("LoginData");
+
+  var range=spreadsheetName.getRange(1, 2, 1,1);
+  var values=range.getValues();
+  Logger.log(values);
+  return values;
+}
+
+function getProfilePic(){
+  var app=SpreadsheetApp.getActiveSpreadsheet();
+  var spreadsheetName=app.getSheetByName("LoginData");
+
+  var range=spreadsheetName.getRange(1, 5, 1,1);
+  var values=range.getValues();
+  Logger.log(values);
+  return values;
+}
+
+
+function getProfileAll(){
+  var app=SpreadsheetApp.getActiveSpreadsheet();
+  var spreadsheetName=app.getSheetByName("Employees");
+  var lastRow=spreadsheetName.getLastRow();
+
+  var range=spreadsheetName.getRange(2, 1, lastRow-1, 6);
+  var values=range.getValues();
+  Logger.log(values);
+  return values;
+}
+
+
+
+
+
+///////////////////End Profile
+
+///////////////// Q&A 
+
+
+function getQAall(){
+  var app=SpreadsheetApp.getActiveSpreadsheet();
+  var spreadsheetName=app.getSheetByName("QA");
+  var lastRow=spreadsheetName.getLastRow();
+
+  var range=spreadsheetName.getRange(2, 1, lastRow-1, 3);
+  var values=range.getValues();
+  Logger.log(values);
+  return values;
+}
+
+/// Search
+function getSQL(search){
+var app=SpreadsheetApp.getActiveSpreadsheet();
+var sheetSQL=app.getSheetByName("SQL")
+var sheetQA= app.getSheetByName('QA');
+var sqlStatement= "select A, B, C where 1=1";
+
+if (search !=""){
+
+  sqlStatement +=" and UPPER(B) like '%"+search+"%' ";
+
+}
+
+var getLastRow = sheetQA.getLastRow();
+var tableRange="QA!A2:C"+getLastRow;
+var query = '=QUERY('+tableRange+',\"'+sqlStatement+'\")';
+var setResults=sheetSQL.getRange(1,1).setFormula(query);
+var getResults=sheetSQL.getDataRange().getValues();
+
+return getResults;
+
+}
+
+
+
+/////////////// End Q&A
+
+
+
+
+
+
+
+
+
+
